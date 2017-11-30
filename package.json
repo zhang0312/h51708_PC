@@ -1,0 +1,27 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "PC项目：\r     实现页面：\r         注册\r         登录\r         首页\r         列表\r         详情\r         购物车\r         确认订单 \r     技术：\r         HTML+CSS\r         JavaScript\r         jquery+plugins\r         Sass\r         artTemplate\r         RequireJs\r         gulp\r         git\r         ...",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhang0312/h51708_PC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhang0312/h51708_PC/issues"
+  },
+  "homepage": "https://github.com/zhang0312/h51708_PC#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
