@@ -1,0 +1,61 @@
+.header {
+  color: #353535;
+  line-height: 30px;
+  font-size: 12px;
+  width: 1200px;
+  height: 30px;
+  margin: 0 auto;
+  position: relative;
+}
+.header .header_left {
+  width: 130px;
+  height: 30px;
+  position: absolute;
+  left: 0;
+  z-index: 999;
+}
+.header .header_left ul {
+  width: 120px;
+  height: 30px;
+  margin-left: 10px;
+  background: url(/images/login_tcbg_down.gif) no-repeat 100px 14px;
+}
+.header .header_left ul li {
+  width: 120px;
+  height: 30px;
+}
+.header .header_left ul li div {
+  display: none;
+  padding: 5px 0 5px 0;
+  line-height: 20px;
+}
+.header .header_left ul li div a {
+  color: #353535;
+  display: inline-block;
+  width: 125px;
+  height: 20px;
+}
+.header .header_right {
+  width: 335px;
+  height: 30px;
+  position: absolute;
+  right: 0;
+}
+.header .header_right a {
+  color: #353535;
+  padding: 0 6px;
+}
+.header .header_right a:hover {
+  text-decoration: underline;
+}
+
+.main {
+  width: 100%;
+  height: 3695px;
+}
+.main .top {
+  width: 100%;
+  height: 596px;
+  margin: 0 auto;
+  background: #ccc;
+}

@@ -1,0 +1,9 @@
+html, body, div,ul, li, ol, dl, dd, dt, p, h1, h2, h3, h4, h5, h6, form, fieldset, legend, img, header, nav, main, section, footer{ margin:0; padding:0; box-sizing:border-box;list-style: none;}
+
+fieldset, img { border:none; }
+
+img{display:block;}
+
+ul, ol { list-style:none; } 
+
+a {text-decoration:none; }
